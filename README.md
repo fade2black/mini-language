@@ -84,4 +84,4 @@ const run = async () => {
 
 run();
 ```
-and then call `node run.js`.
+and then run `node run.js`.
